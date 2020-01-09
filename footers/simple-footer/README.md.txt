@@ -1,0 +1,1 @@
+﻿This is a simple footer which contains the name of the company, the year it was founded and some copyright text.
